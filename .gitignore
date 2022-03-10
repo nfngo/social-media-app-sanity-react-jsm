@@ -3,6 +3,7 @@
 
 # Dependency directories
 shareme_backend/node_modules
+shareme_backend/.eslintrc
 
 ### Node ###
 # Logs
